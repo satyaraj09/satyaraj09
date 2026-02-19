@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m an **AI Systems Engineer** and backend developer building production-grade LLM platforms, multi-agent orchestration systems, and scalable AI/ML solutions. Experienced in designing **RAG systems, drift-aware retraining pipelines, microservices**, and real-time AI APIs using **Python, FastAPI, Django, and cloud-native architectures**. Passionate about **deploying robust AI solutions to production** and integrating ML into real-world applications.
+I’m an **Python Developer or AI/ML Engineer or Backend Developer Aspirant** building LLM platforms, multi-agent orchestration systems, and scalable AI/ML solutions. Experienced in designing **RAG systems, drift-aware retraining pipelines, microservices**, and real-time AI APIs using **Python, FastAPI, Django, and cloud-native architectures**. Passionate about **deploying robust AI solutions to production** and integrating ML into real-world applications.
 
 ---
 
